@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sevdagasanova1/sevda-test-git/issues"
   },
-  "homepage": "https://github.com/sevdagasanova1/sevda-test-git#readme"
+  "homepage": "https://github.com/sevdagasanova1/sevda-test-git#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
