@@ -1,3 +1,6 @@
+const express = require('express');
+const router = express.Router();
+
 // handle get request for path /products/:id
 router.get('/products/:id', (request, response) => {
     const { id } = request.params; // Access the id parameter from the URL
